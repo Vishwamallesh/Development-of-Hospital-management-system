@@ -16,7 +16,7 @@ This is a complete basic and static website for hostpital and treatment informat
 
  ## Website link 
 
-https://shivkumarverma.github.io/Hospital-Management-system/
+file:///C:/Users/gopik/OneDrive/Documents/Hospital-Management-system-master[1]/Hospital-Management-system-master/index.html
 
 ## Countributer
 
